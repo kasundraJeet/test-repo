@@ -1,0 +1,1 @@
+import{_ as o}from"./LayoutWrapper-CNhoZbjp.js";import{h as r,o as t}from"./index-BUE5i0sM.js";import"./index-VGliJ6Ci.js";import"./createLucideIcon-DplB_D6S.js";import"./index-c08dg60_.js";const n={__name:"DashboardView",setup(a){return(e,_)=>(t(),r(o))}};export{n as default};
